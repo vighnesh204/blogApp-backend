@@ -50,7 +50,7 @@ A RESTful Blog Backend built with Node.js, Express, and MongoDB following a clea
 ## ⚙️ Installation
 
 ```bash
-git clone 
+git clone https://github.com/vighnesh204/blogApp-backend.git
 cd BlogApp-Backend
 npm install
 
